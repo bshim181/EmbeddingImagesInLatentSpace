@@ -1,5 +1,5 @@
 # Image2StyleGan
-I have used images of two fashion models and preprocessed facial part locations, then worked to morph two faces to create a 
+I have used images of fashion models, preprocessed facial part locations, then worked to morph two faces to create a 
 facial template for potential virtual/simulated characters. 
 
 ## Acknowledgement & References 
