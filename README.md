@@ -3,10 +3,10 @@ I have used images of two fashion models and preprocessed facial part locations,
 facial template for potential virtual/simulated characters. 
 
 ## Acknowledgement & References 
-Took zaidbhat1234/Image2StyleGAN implmentation of the paper Image2StyleGAN: How to Embed Images Into the StyleGAN Latent Space?
+
+Took zaidbhat1234/Image2StyleGAN implementation of the paper "Image2StyleGAN: How to Embed Images Into the StyleGAN Latent Space?"
 
 ## Results 
-
 
 <img width="514" alt="Screen Shot 2022-08-23 at 9 07 14 PM" src="https://user-images.githubusercontent.com/53489568/186296017-314487d0-ac8c-4371-ae1e-c8fcdf6f0557.png">
 
